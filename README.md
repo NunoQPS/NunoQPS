@@ -20,6 +20,8 @@ I'm developing the project iteratively — from requirements and data modelling 
 
 🚧 **Currently in active development**
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -48,13 +50,24 @@ Salesforce · Jira · HubSpot · Aircall
 ## 🚀 Featured Projects
 
 ### 🌿 RotaFern
-**C# · ASP.NET Core · EF Core · PostgreSQL**
+**C# · ASP.NET Core · Entity Framework Core · PostgreSQL**
 
 A workforce scheduling application for creating and managing employee rotas across teams.
 
 Features being developed include employee and team management, fixed working patterns, rota generation, leave management and schedule overrides.
 
 **Status:** 🚧 In active development
+
+---
+
+### 🚕 [Python Taxi Booking System](https://github.com/NunoQPS/python-taxi-booking-system)
+**Python · SQLite · SQL**
+
+A taxi booking and management system developed as part of my Computer Science degree.
+
+The application includes separate passenger and driver workflows, registration and authentication, booking creation and cancellation, automatic driver allocation and persistent data storage using SQLite.
+
+The project also includes UML modelling, entity relationship design and process mapping.
 
 ---
 
@@ -69,18 +82,9 @@ This was one of my earliest substantial programming projects and represents an i
 
 ---
 
-### 📱 Swift iOS Application
-**Swift · iOS**
-
-My university final-year project, developed while independently learning Swift and iOS development.
-
-The project gave me experience taking an unfamiliar technology from initial research through to a working application.
-
----
-
 ## 🎓 Academic Projects
 
-Alongside my current development work, I'm documenting and publishing selected projects from my **Computer Science degree** and **Software Development apprenticeship**.
+I'm documenting and publishing selected projects from my **Computer Science degree** and **Software Development apprenticeship**.
 
 These projects cover areas including:
 
