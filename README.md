@@ -4,30 +4,21 @@
 
 I'm a Computer Science graduate who enjoys building practical software, solving problems and understanding how things work behind the scenes.
 
-My background combines **software development, technical support and Salesforce administration**, giving me experience across both building software and supporting technology in real-world environments.
+My background combines **technical support and Salesforce administration** with hands-on software development through academic and personal projects, giving me experience across both building software and supporting technology in real-world environments.
 
 I'm currently focused on **C# and .NET development**, while continuing to strengthen my skills across Python, SQL and modern software engineering practices.
 
 ---
 
-## 🌿 Currently Building: RotaFern
+## 🌿 Currently Building
 
-**RotaFern** is a workforce rota and scheduling application designed to make managing employee schedules across teams simpler and more structured.
+### RotaFern
 
-I'm building it from the ground up using:
+A workforce rota and scheduling application I'm building from the ground up using **C#, ASP.NET Core, Razor Pages, Entity Framework Core and PostgreSQL**.
 
-- C# & ASP.NET Core
-- Razor Pages
-- Entity Framework Core
-- PostgreSQL
-- ASP.NET Core Identity
-- Git & GitHub
-
-The project is being developed iteratively — from requirements and data modelling through to implementation, testing and deployment.
+I'm developing the project iteratively — from requirements and data modelling through to implementation, testing and deployment.
 
 🚧 **Currently in active development**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -109,15 +100,13 @@ They represent different stages of my development journey and show how my approa
 
 ## 📚 Currently Developing
 
-I'm currently strengthening my knowledge of:
+Alongside building projects, I'm continuing to expand my software engineering knowledge in areas including:
 
-- C# and .NET
-- Object-oriented programming
 - Automated testing
 - Application architecture
-- REST APIs
-- Git workflows
-- Backend development
+- REST API development
+- CI/CD
+- Backend development practices
 
 ---
 
