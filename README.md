@@ -62,6 +62,15 @@ The project also includes UML modelling, entity relationship design and process 
 
 ---
 
+### 🍅 [Java Tomato Game](https://github.com/NunoQPS/java-tomato-game)
+**Java · Swing**
+
+A desktop puzzle game developed as part of my Computer Science degree.
+
+The application includes a login interface, image-based mathematical puzzles, answer validation, score tracking and separate components for the game engine and user interface.
+
+---
+
 ### 🐍 [Python Maze Game](https://github.com/NunoQPS/python-maze-game)
 **Python · Turtle**
 
