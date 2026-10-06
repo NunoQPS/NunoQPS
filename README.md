@@ -16,6 +16,8 @@ I'm currently focused on **C# and .NET development**, while continuing to streng
 
 A workforce rota and scheduling application I'm building from the ground up using **C#, ASP.NET Core, Razor Pages, Entity Framework Core and PostgreSQL**.
 
+Features being developed include employee and team management, fixed working patterns, rota generation, leave management and schedule overrides.
+
 I'm developing the project iteratively — from requirements and data modelling through to implementation, testing and deployment.
 
 🚧 **Currently in active development**
@@ -48,17 +50,6 @@ Salesforce · Jira · HubSpot · Aircall
 ---
 
 ## 🚀 Featured Projects
-
-### 🌿 RotaFern
-**C# · ASP.NET Core · Entity Framework Core · PostgreSQL**
-
-A workforce scheduling application for creating and managing employee rotas across teams.
-
-Features being developed include employee and team management, fixed working patterns, rota generation, leave management and schedule overrides.
-
-**Status:** 🚧 In active development
-
----
 
 ### 🚕 [Python Taxi Booking System](https://github.com/NunoQPS/python-taxi-booking-system)
 **Python · SQLite · SQL**
