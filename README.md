@@ -58,7 +58,7 @@ Features being developed include employee and team management, fixed working pat
 
 ---
 
-### 🐍 Python Maze Game
+### 🐍 [Python Maze Game](https://github.com/NunoQPS/python-maze-game)
 **Python · Turtle**
 
 A two-level interactive maze game originally built independently during my Software Development apprenticeship.
